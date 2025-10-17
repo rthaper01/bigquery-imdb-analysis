@@ -59,7 +59,6 @@ Inspired by a creative scenario featuring *Dr. Gru*, this analysis demonstrates 
 |------|--------------|
 | `imdb-analysis-project.ipynb` | Full Jupyter Notebook with analysis, SQL queries, and visualizations |
 | `README.md` | Project overview and documentation |
-| *(Optional)* `images/` | Supporting figures and charts for README preview |
 
 ---
 
