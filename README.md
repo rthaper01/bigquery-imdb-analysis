@@ -1,8 +1,8 @@
 # 🎬 IMDb Film Analysis: Data-Driven Insights for Blockbuster Success
 
 **Author:** Rishubh Thaper  
-**Project:** CS145: Data Management and Data Systems (Stanford University)  
-**Tools:** Python · Google BigQuery · pandas · matplotlib · SQL
+**Class:** CS145: Introduction to Big Data Systems (Stanford University)  
+**Tools:** Python · Google BigQuery · pandas · SQL
 
 ---
 
@@ -73,7 +73,7 @@ If GitHub fails to render the notebook, view it on **nbviewer**:
 ## 💬 Author
 
 👤 **Rishubh Thaper**  
-📍 San Francisco, CA  
+📍 Stanford, CA 
 🔗 [GitHub](https://github.com/rthaper01) • [LinkedIn](https://linkedin.com/in/rishubh-thaper)
 
 ---
