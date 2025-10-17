@@ -23,7 +23,7 @@ Inspired by a creative scenario featuring *Dr. Gru*, this analysis demonstrates 
    *By how much do A-list actors over the past 30 years raise or lower average movie ratings?*
 
 3. **Location Profitability:**  
-   *Which San Francisco landmarks offer the greatest potential for cinematic and economic success?*
+   *Which San Francisco landmarks, and movies filmed near them, are correlated with an increase in tourism to the region?*
 
 ---
 
