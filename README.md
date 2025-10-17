@@ -48,7 +48,7 @@ Inspired by a creative scenario featuring *Dr. Gru*, this analysis demonstrates 
 
 - **Python 3.10**  
 - **Google BigQuery**  
-- **pandas**, **numpy**, **matplotlib**, **seaborn**  
+- **requests**, **pandas**, **SQL**, **Google Cloud**, **Google Maps API**
 - **Jupyter Notebook / Google Colab**
 
 ---
